@@ -1,0 +1,1 @@
+Nisu uradjeni BFS i tacke gde se vodovi seku

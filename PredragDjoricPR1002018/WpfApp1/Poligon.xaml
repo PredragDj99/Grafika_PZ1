@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfApp1.Poligon"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Poligon" Height="450" Width="450">
+    <Grid>
+        <Label Content="Unesite debljinu konturne linije:" HorizontalAlignment="Left" Margin="51,51,0,0" VerticalAlignment="Top"/>
+        <Label Content="Izaberite boju poligona: " HorizontalAlignment="Left" Margin="53,139,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tekst unutar poligona(opciono): " HorizontalAlignment="Left" Margin="51,236,0,0" VerticalAlignment="Top"/>
+        <Label Content="Boja teksta(opciono): " HorizontalAlignment="Left" Margin="53,281,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="debljinaKonturneLinije" HorizontalAlignment="Left" Height="23" Margin="260,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <TextBox x:Name="tekstUnutarPoligona" HorizontalAlignment="Left" Height="23" Margin="260,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+
+        <Label x:Name="lblKonturnaLinijaGreska" HorizontalAlignment="Left" Margin="260,82,0,0" VerticalAlignment="Top" Width="151" Height="25"/>
+        <Label x:Name="lblcmdGreska" HorizontalAlignment="Left" Margin="260,170,0,0" VerticalAlignment="Top" Width="151" Height="25"/>
+
+
+        <Button Content="Nacrtaj poligon" HorizontalAlignment="Left" Margin="175,373,0,0" VerticalAlignment="Top" Width="95" Height="37" Click="NacrtajPoligon_Click" />
+        <ComboBox x:Name="cmbColor" SelectionChanged="cmbColor_SelectionChanged" HorizontalAlignment="Left" Margin="260,143,0,0" VerticalAlignment="Top" Width="151">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Width="92" Height="20" Background="{Binding Name}" Text="{Binding Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <ComboBox x:Name="cmbColor2" SelectionChanged="cmbColor_SelectionChanged" HorizontalAlignment="Left" Margin="260,285,0,0" VerticalAlignment="Top" Width="151">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Width="92" Height="20" Background="{Binding Name}" Text="{Binding Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+    </Grid>
+</Window>

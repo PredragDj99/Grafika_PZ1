@@ -1,0 +1,81 @@
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\AddTextt.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\Elipsa.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\Poligon.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\AddTextt.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\Elipsa.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\Poligon.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditElipsa.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditElipsa.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditText.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditText.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditPolygon.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditPolygon.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\AddTextt.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditElipsa.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditPolygon.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditText.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Elipsa.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Poligon.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\AddTextt.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditElipsa.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditPolygon.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditText.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Elipsa.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Poligon.baml
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Pedja\Desktop\Nepolozeni predmeti\4 godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\AddTextt.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditElipsa.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditPolygon.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditText.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Elipsa.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Poligon.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\AddTextt.baml
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditElipsa.baml
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditPolygon.baml
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\EditText.baml
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Elipsa.baml
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\Poligon.baml
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Pedja\Desktop\FTN i srednja\FTN\Cetvrta godina\Grafika\Projekat\PZ1\OVO NOSIM NA ODBRANU\PredragDjoricPR1002018\WpfApp1\obj\Debug\WpfApp1.pdb

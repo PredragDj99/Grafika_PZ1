@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp1.AddText"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="AddText" Height="450" Width="450">
+    <Grid>
+        <Label Content="Unesite tekst:" HorizontalAlignment="Left" Margin="92,80,0,0" VerticalAlignment="Top"/>
+        <Label Content="Izaberite boju:" HorizontalAlignment="Left" Margin="88,159,0,0" VerticalAlignment="Top"/>
+        <Label Content="Izaberite velicinu slova:" HorizontalAlignment="Left" Margin="88,227,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtUnos" HorizontalAlignment="Left" Height="23" Margin="239,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164"/>
+        <ComboBox x:Name="cmbColor" SelectionChanged="CmbColor_SelectionChanged" HorizontalAlignment="Left" Margin="239,163,0,0" VerticalAlignment="Top" Width="164">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Width="92" Height="20" Background="{Binding Name}" Text="{Binding Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <ComboBox Name="cmbFontSize" IsEditable="True" TextBoxBase.TextChanged="CmbFontSize_Changed" HorizontalAlignment="Left" Margin="239,231,0,0" VerticalAlignment="Top" Width="164"/>
+
+        <Label x:Name="lblTekstGreska" HorizontalAlignment="Left" Margin="239,103,0,0" VerticalAlignment="Top" Width="164" Height="28"/>
+        <Label x:Name="lblcmbBojaGreska" HorizontalAlignment="Left" Margin="239,185,0,0" VerticalAlignment="Top" Width="164" Height="28" />
+        <Label x:Name="lblcmbVelicinaGreska" HorizontalAlignment="Left" Margin="239,258,0,0" VerticalAlignment="Top" Width="164" Height="28" />
+        <Button FontSize="15" Content="Posalji tekst" Click="NacrtajTekst" HorizontalAlignment="Left" Margin="158,331,0,0" VerticalAlignment="Top" Width="125" Height="45"/>
+
+
+    </Grid>
+</Window>

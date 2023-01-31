@@ -1,0 +1,49 @@
+﻿<Window x:Class="WpfApp1.Elipsa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Elipsa" Height="450" Width="450">
+    <Grid>
+        <Label Content="Unesite poluprecnik visine:" HorizontalAlignment="Left" Margin="49,40,0,0" VerticalAlignment="Top"/>
+        <Label Content="Unesite poluprecnik sirine:" HorizontalAlignment="Left" Margin="53,112,0,0" VerticalAlignment="Top"/>
+        <Label Content="Unesite debljinu konturne linije:" HorizontalAlignment="Left" Margin="49,179,0,0" VerticalAlignment="Top"/>
+        <Label Content="Izaberite boju elipse: " HorizontalAlignment="Left" Margin="53,238,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tekst unutar elipse(opciono): " HorizontalAlignment="Left" Margin="49,305,0,0" VerticalAlignment="Top"/>
+        <Label Content="Boja teksta(opciono): " HorizontalAlignment="Left" Margin="49,336,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="poluprecnikHeight" HorizontalAlignment="Left" Height="23" Margin="260,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <TextBox x:Name="poluprecnikWidth" HorizontalAlignment="Left" Height="23" Margin="260,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <TextBox x:Name="debljinaKonturneLinije" HorizontalAlignment="Left" Height="23" Margin="260,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <TextBox x:Name="tekstUnutarElipse" HorizontalAlignment="Left" Height="23" Margin="260,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+
+        <Label x:Name="lblHeightGreska" HorizontalAlignment="Left" Margin="260,63,0,0" VerticalAlignment="Top" Height="25" Width="151"/>
+        <Label x:Name="lblWidthGreska" HorizontalAlignment="Left" Margin="260,135,0,0" VerticalAlignment="Top" Height="25" Width="151"/>
+        <Label x:Name="lblKonturnaLinijaGreska" HorizontalAlignment="Left" Margin="260,205,0,0" VerticalAlignment="Top" Width="151" Height="25"/>
+        <Label x:Name="lblcmbGreska" HorizontalAlignment="Left" Margin="260,260,0,0" VerticalAlignment="Top" Width="151" Height="25"/>
+
+
+        <Button Content="Nacrtaj elipsu" HorizontalAlignment="Left" Margin="175,373,0,0" VerticalAlignment="Top" Width="95" Height="37" Click="NacrtajElipsu_Click" />
+        <ComboBox Name="cmbColor" SelectionChanged="cmbColor_SelectionChanged" HorizontalAlignment="Left" Margin="260,238,0,0" VerticalAlignment="Top" Width="151">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Width="92" Height="20" Background="{Binding Name}" Text="{Binding Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <ComboBox Name="cmbColor2" SelectionChanged="cmbColor_SelectionChanged" HorizontalAlignment="Left" Margin="260,340,0,0" VerticalAlignment="Top" Width="151">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Width="92" Height="20" Background="{Binding Name}" Text="{Binding Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+    </Grid>
+</Window>
